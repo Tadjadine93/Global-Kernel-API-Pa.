@@ -18,7 +18,7 @@
     "Pa.User"
   ],
   "author": "Haroun TADJADINE",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "bluebird": "^3.5.0",
@@ -47,5 +47,16 @@
     "@types/mongoose": "^4.7.18",
     "@types/morgan": "^1.7.32",
     "nodemon": "^1.19.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tadjadine93/Global-Kernel-API-Pa..git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tadjadine93/Global-Kernel-API-Pa./issues"
+  },
+  "homepage": "https://github.com/Tadjadine93/Global-Kernel-API-Pa.#readme"
 }
